@@ -48,6 +48,11 @@
     },
     "extra": {
       "router": {},
+      "googleOAuth": {
+        "webClientId": "",
+        "iosClientId": "",
+        "androidClientId": ""
+      },
       "eas": {
         "projectId": "bc1befea-47d0-418f-bb2b-00de12217c48"
       }
